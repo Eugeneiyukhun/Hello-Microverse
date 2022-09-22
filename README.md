@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
-=======
+
 # Hello-Microverse
->>>>>>> Stashed changes
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
@@ -9,8 +7,16 @@
 > Description the project.
 
 
+
 ## Built With
 
+
+- HTML
+- CSS
+
+## Live Demo 
+
+[Coming Soon]
 - Major languages
 - Frameworks
 - Technologies used
@@ -18,6 +24,7 @@
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
+
 
 
 ## Getting Started
@@ -28,6 +35,24 @@
 
 To get a local copy up and running follow these simple example steps.
 
+- Clone the repository: go to Your Cli and run "git clone <repository url>"
+
+- change into the repository:  run 'cd <repository name>'
+
+- Install all the project dependences: Run 'npm Insttall' in your cli
+
+- now you can view the project in the browser using any web server of choice
+
+
+
+## Author
+
+👤 **Author**
+
+- GitHub: [@githubhandle](https://github.com/Eugeneiyukhun)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eugene-iyukhun-bb491612a)
+- Twitter: [twitter](https://twitter.com/EIyukhun)
+=======
 ### Prerequisites
 
 ### Setup
@@ -60,6 +85,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Hat tip to microverse and anyone whose code was used
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
