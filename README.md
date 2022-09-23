@@ -22,13 +22,13 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Clone the repository: go to Your Cli and run "git clone <repository url>"
+- Clone the repository: go to Your Cli and run "git clone <repository url>"
 
-### change into the repository:  run 'cd <repository name>'
+- change into the repository:  run 'cd <repository name>'
 
-### Install all the project dependences: Run 'npm Insttall' in your cli
+- Install all the project dependences: Run 'npm Insttall' in your cli
 
-### now you can view the project in the browser using any web server of choice
+- now you can view the project in the browser using any web server of choice
 
 
 
@@ -37,6 +37,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/Eugeneiyukhun)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eugene-iyukhun-bb491612a)
+- Twitter: [twitter](https://twitter.com/EIyukhun)
 
 ## 🤝 Contributing
 
